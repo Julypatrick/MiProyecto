@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_administrador" value="name:Codigo;datatype:int,name:Tipo_Documento;datatype:string,name:Nombres;datatype:string,name:Apellidos;datatype:string,name:Direccion;datatype:string,name:Telefono;datatype:string,name:Celular;datatype:string,name:Sexo;datatype:int,name:Fecha_Nacimiento;datatype:date,name:Edad;datatype:int,name:Contraseña;datatype:string" />
+</info>

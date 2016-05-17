@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Codigo;datatype:int,name:Nombre;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:Codigo;datatype:int,name:Nombres;datatype:string" />
+	<infoitem key="UD_Recordset3" value="name:Codigo;datatype:int,name:Nombre;datatype:string" />
+	<infoitem key="UD_Recordset4" value="name:Codigo;datatype:int,name:Nombre;datatype:string" />
+	<infoitem key="UD_Autor" value="name:Codigo;datatype:int,name:Nombres;datatype:string,name:Apellidos;datatype:string,name:Ciudad_Origen;datatype:string" />
+	<infoitem key="UD_Materia" value="name:Codigo;datatype:int,name:Nombre;datatype:string" />
+	<infoitem key="UD_Editorial" value="name:Codigo;datatype:int,name:Nombre;datatype:string" />
+	<infoitem key="UD_autor" value="name:Codigo;datatype:int,name:Nombres;datatype:string,name:Ciudad_Origen;datatype:string" />
+	<infoitem key="UD_editorial" value="name:Codigo;datatype:int,name:Nombre;datatype:string" />
+	<infoitem key="UD_referencia" value="name:Codigo;datatype:int,name:Nombre;datatype:string" />
+	<infoitem key="UD_referencias" value="name:Codigo;datatype:int,name:Nombre;datatype:string" />
+</info>
