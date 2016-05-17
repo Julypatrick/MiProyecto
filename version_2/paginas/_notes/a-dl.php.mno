@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_prestamo" value="name:Codigo;datatype:int,name:Libro;datatype:int,name:Usuario;datatype:real,name:Bibliotecologo;datatype:real,name:Dia;datatype:int,name:Mes;datatype:string,name:Ano;datatype:int,name:Dia_Dev.;datatype:int,name:Mes_Dev;datatype:string,name:Ano_Dev.;datatype:int" />
+	<infoitem key="UD_usuario" value="name:Codigo;datatype:real,name:Tipo_Documento;datatype:string,name:Nombres;datatype:string,name:Apellidos;datatype:string,name:Direccion;datatype:string,name:Telefono;datatype:string,name:Celular;datatype:string,name:Sexo;datatype:string,name:Dia;datatype:int,name:Mes;datatype:string,name:Ano;datatype:int,name:Edad;datatype:int,name:Contrasena;datatype:string" />
+	<infoitem key="UD_libro" value="name:Codigo;datatype:int,name:Nombre;datatype:string,name:Autor;datatype:int,name:Editorial;datatype:int,name:Referencia;datatype:int" />
+	<infoitem key="UD_bibliotecologo" value="name:Codigo;datatype:real,name:Tipo_Documento;datatype:string,name:Nombres;datatype:string,name:Apellidos;datatype:string,name:Direccion;datatype:string,name:Telefono;datatype:string,name:Celular;datatype:string,name:Sexo;datatype:string,name:Dia;datatype:int,name:Mes;datatype:string,name:Ano;datatype:int,name:Edad;datatype:int,name:Contrasena;datatype:string" />
+	<infoitem key="UD_sancion" value="name:Codigo;datatype:int,name:usuario;datatype:real,name:Valor_Sancion;datatype:string" />
+</info>
