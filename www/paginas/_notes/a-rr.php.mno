@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Codigo;datatype:int,name:Usuario;datatype:real,name:Libro;datatype:int,name:Dia;datatype:int,name:Mes;datatype:string,name:Ano;datatype:int" />
+	<infoitem key="UD_Recordset2" value="name:Codigo;datatype:real,name:Tipo_Documento;datatype:string,name:Nombres;datatype:string,name:Apellidos;datatype:string,name:Direccion;datatype:string,name:Telefono;datatype:string,name:Celular;datatype:string,name:Sexo;datatype:string,name:Dia;datatype:int,name:Mes;datatype:string,name:Ano;datatype:int,name:Edad;datatype:int,name:Contrasena;datatype:string" />
+	<infoitem key="UD_Recordset3" value="name:Codigo;datatype:int,name:Nombre;datatype:string,name:Autor;datatype:int,name:Editorial;datatype:int,name:Referencia;datatype:int" />
+	<infoitem key="UD_li" value="name:Codigo;datatype:int,name:Nombre;datatype:string" />
+	<infoitem key="UD_re" value="name:Codigo;datatype:int,name:Usuario;datatype:real,name:Libro;datatype:int,name:Dia;datatype:int,name:Mes;datatype:string,name:Ano;datatype:int" />
+	<infoitem key="UD_u" value="name:Nombres;datatype:string" />
+</info>

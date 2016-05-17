@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_usuario" value="name:Codigo;datatype:real,name:Tipo_Documento;datatype:string,name:Nombres;datatype:string,name:Apellidos;datatype:string,name:Direccion;datatype:string,name:Telefono;datatype:string,name:Celular;datatype:string,name:Sexo;datatype:string,name:Dia;datatype:int,name:Mes;datatype:string,name:Ano;datatype:int,name:Edad;datatype:int,name:Contrasena;datatype:string" />
+</info>

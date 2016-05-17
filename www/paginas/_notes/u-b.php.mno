@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_libros" value="name:Codigo;datatype:int,name:Nombre;datatype:string,name:Autor;datatype:int,name:Editorial;datatype:int,name:Referencia;datatype:int" />
+	<infoitem key="UD_autores" value="name:Codigo;datatype:int,name:Nombres;datatype:string,name:Ciudad_Origen;datatype:string" />
+	<infoitem key="UD_editorial" value="name:Codigo;datatype:int,name:Nombre;datatype:string" />
+	<infoitem key="UD_autor" value="name:Codigo;datatype:int,name:Nombres;datatype:string,name:Ciudad_Origen;datatype:string" />
+</info>

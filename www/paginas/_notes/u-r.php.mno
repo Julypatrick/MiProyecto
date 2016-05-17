@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_usuario" value="name:Codigo;datatype:real,name:Nombres;datatype:string" />
+	<infoitem key="UD_libro" value="name:Codigo;datatype:int,name:Nombre;datatype:string" />
+</info>
